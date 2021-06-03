@@ -12,6 +12,7 @@
 This web page contains information about the student's education and herself.
 
 ## License
+ Licensed [MIT](LICENSE)
 *Copyright (c) 2021 Jasmine and Brenda*
 
 [Education](google.com)
